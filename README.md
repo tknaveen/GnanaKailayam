@@ -1,7 +1,7 @@
 
-  # Update Click-to-Slide Code
+  # GnanaKailayam
 
-  This is a code bundle for Update Click-to-Slide Code. The original project is available at https://www.figma.com/design/3EMnH5YNua52JbR4vWMtxB/Update-Click-to-Slide-Code.
+  This is a code bundle for GnanaKailayam. The original project is available at https://www.figma.com/design/3EMnH5YNua52JbR4vWMtxB/GnanaKailayam.
 
   ## Running the code
 
